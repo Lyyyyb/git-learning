@@ -7,4 +7,7 @@ git log :查看详细日志信息
 i编辑 esc退出编辑 命令行模式 :+wq 保存并退出
 git reset --hard 版本号 :版本切换穿梭
 cat 文件名:查看文件信息
-ctrl+L ：清屏·
+ctrl+L ：清屏
+git branch -v :查看分支 分支类似于副本 把原来的文件复制了一份进行修改 多线并行操作
+git branch 分支名·：创建分支
+git checkout 分支名 ：切换分支 之后指针就会指向当前的分支 修改的文件也是当前分支下的文件
