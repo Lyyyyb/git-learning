@@ -1,4 +1,5 @@
 hello git！
+git init ：初始化本地库
 git add 文件名:添加到暂存区
 git commit --m "版本号" 文件名:添加到本地库
 git status :查看当前状态 
@@ -17,3 +18,4 @@ git remote -v :查看别名
 git remote add 别名 远程库链接 :给远程库起别名
 git push 远程库别名 分支名 :将本地库推送到远程库 远程库别名也可直接用远程库链接
 git pull 远程库别名 分支名 :将远程库拉到本地库 远程库别名也可直接用远程库链接 pull相当于更新本地库 pull会自动提交本地库 无需commit
+git clone 远程库链接 :将远程库克隆到本地 1.拉取代码 2.初始化本地仓库 3，创建别名”origin“
