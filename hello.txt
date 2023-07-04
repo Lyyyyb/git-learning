@@ -1,15 +1,7 @@
-hello git!
-222222222222222222222
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-
+hello git！
+git add :添加到暂存区
+git commit --m "版本号" 文件名:添加到本地库
+git status :查看当前状态 
+git reflog :查看日志信息
+git log :查看详细日志信息
+i编辑 esc退出编辑 命令行模式 :+wq 保存并退出 
